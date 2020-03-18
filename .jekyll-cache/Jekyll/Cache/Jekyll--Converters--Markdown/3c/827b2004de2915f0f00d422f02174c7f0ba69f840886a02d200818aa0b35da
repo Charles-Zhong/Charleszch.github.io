@@ -1,0 +1,85 @@
+I"d<h1 id="创建和使用">创建和使用</h1>
+
+<blockquote>
+  <p>以下安装都是在Windows上安装的
+可以直接按照Start和Address里面的内容去直接搜索安装就可以了，也可以看后面较详细的步骤来安装，有可能会出现一些问题，也可以看这里有没有需要要解决的问题</p>
+</blockquote>
+
+<h2 id="1开始">1.开始</h2>
+<ul>
+  <li>1.在GitHub上申请域名以及建立一个仓库</li>
+  <li>2.Ruby语言安装</li>
+  <li>3.MSYS2安装</li>
+  <li>4.DevKit</li>
+  <li>5.RubyGems安装</li>
+  <li>6.bundler安装</li>
+  <li>7.Jekyll下载和安装</li>
+</ul>
+
+<h2 id="2地址">2.地址</h2>
+<ul>
+  <li>Ruby
+    <ul>
+      <li><a href="https://rubyinstaller.org/downloads">Ruby官网</a></li>
+      <li><a href="https://gems.ruby-china.com/">Ruby镜像</a></li>
+      <li><a href="https:rubygems.org/">RubyGems</a>       <a href="https://rubygems.org/pages/download">RubyGems更具体下载</a></li>
+    </ul>
+  </li>
+  <li>Jekyll
+    <ul>
+      <li><a href="https://jekyllrb.com/">Jekyll官网英文版</a>       <a href="https://jekyll.comptechs.cn/">Jekyll官网中文版</a></li>
+      <li><a href="https://jekyllthemes.dev/">Jekyll模板</a></li>
+      <li><a href="https://jekyllrb.com/docs/usage/">Jekyll官网文档</a></li>
+    </ul>
+  </li>
+  <li>GitHub
+    <ul>
+      <li><a href="https://ghbtns.com/">GitHub按钮集</a></li>
+    </ul>
+  </li>
+  <li>YAML
+    <ul>
+      <li><a href="https://yaml.org/">具体语法</a></li>
+    </ul>
+  </li>
+  <li>HTML CSS LESS JS等
+可自行网上搜索，目前暂时用不到，但是后面要改自己博客的样子的时候，就需要到了，如果只是需要一个博客的模板而已，就没必要了解那么深入</li>
+</ul>
+
+<h2 id="3详细步骤">3.详细步骤</h2>
+<ol>
+  <li>
+    <p>现在GitHub上申请域名，这个需要有自己的账号，没有的话可以申请一个先，然后到界面中.</p>
+  </li>
+  <li>
+    <p>接着到Ruby的官网下载镜像文件，直接点击安装就好.
+<img src="/img/in-post/post-blog/ruby-download.jpg" alt="" />
+上面的一般需要科学上网
+<img src="/img/in-post/post-blog/ruby-devkit-setup.jpg" alt="" /></p>
+  </li>
+  <li>
+    <p>一般安装好Ruby之后会有个窗口弹出来，提示继续安装MSYS2，会有三个选项，直接第三个继续安装就好
+<img src="/img/in-post/post-blog/msys2-install-1.jpg" alt="" />
+<img src="/img/in-post/post-blog/msys2-install-2.jpg" alt="" />
+<img src="/img/in-post/post-blog/msys2-install-3.jpg" alt="" />
+<img src="/img/in-post/post-blog/msys2-install-4.jpg" alt="" /></p>
+  </li>
+  <li>
+    <p>安装DevKit，DevKit属于Ruby的工具集.</p>
+  </li>
+  <li>
+    <p>安装RubyGems，RubyGems相当于安装包控制管理中心一样，可以在里面去下载所需要的包.</p>
+  </li>
+  <li>
+    <p>安装bundler</p>
+  </li>
+  <li>
+    <p>安装Jekyll，如果前面的步骤都安装好并且安装无误后，使用gem可以快速下载包.</p>
+  </li>
+</ol>
+
+<h2 id="4其他快捷操作">4.其他快捷操作</h2>
+
+<h1 id="引用和使用第三方模板">引用和使用第三方模板</h1>
+<p>当然可以直接下载其他人</p>
+:ET
